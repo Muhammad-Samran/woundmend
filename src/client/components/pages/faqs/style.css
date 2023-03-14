@@ -1,0 +1,25 @@
+.cardfaq {
+  background: #ffffff;
+  border: 2px solid #bbbbbb;
+  border-radius: 10px;
+  width: 800px;
+  align-items: center;
+}
+.headercard {
+  display: flex;
+  align-items: center;
+  padding: 5px 0px;
+}
+.bodycard {
+  border-top: 2px solid #bbbbbb;
+  padding: 15px 30px;
+}
+.text_center {
+  color: #63ad01;
+  /* margin-top: 15px; */
+}
+.cardfaqs {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0px;
+}
